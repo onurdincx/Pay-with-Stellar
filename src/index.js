@@ -15,3 +15,4 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+<script src="https://cdn.jsdelivr.net/npm/stellar-sdk@12.1.0/dist/stellar-sdk.min.js"></script>
